@@ -1,7 +1,7 @@
 saphub
 ======
 
-A command-line tool to deploy an Hana XS Engine project from a local folder to a Hana instance.
+A command-line tool to deploy an Hana XS Engine project from a local folder to a Hana instance. The contents of the local folder will overwrite the entire contents of the Hana package it it exists already.
 
 saphub.py
 ---------
